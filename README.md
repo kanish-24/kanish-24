@@ -1,12 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/b8/33/78/b83378fbaf9f0ea218f9a11558b03aa4.gif)](https://i.pinimg.com/originals/b8/33/78/b83378fbaf9f0ea218f9a11558b03aa4.gif)
+
 <h1 align="center">Hi 👋, I'm Kanishk Chaddha</h1>
 <h3 align="center">A passionate QA Engineer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://www.cinntra.com/assets/img/services-img/Software-Quality-Assurance.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanish-24&label=Profile%20views&color=0e75b6&style=flat" alt="kanish-24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanish-24" alt="kanish-24" /></a> </p>
 
 - 💬 Ask me about **Manual testing, Automation testing(Selenium-Java,Cypress), Mobile Application and API Testing**
 
